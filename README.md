@@ -1,4 +1,5 @@
-This is a port of ISAAC a fast CSPRNG from C, written by Bob Jenkins - his site and original code may be found here http://burtleburtle.net/bob/rand/isaacafa.html.
+This is a port of ISAAC a fast CSPRNG from C, the original C code (by Bob Jenkins) may be found here http://burtleburtle.net/bob/rand/isaacafa.html.
+
 Usage:
 
 ``julia>rng = Isaac64(seed)``
